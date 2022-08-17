@@ -1,0 +1,20 @@
+title:
+    The history about C++
+
+content:
+    C++ has a long hisotry for it was invented before the 2000 years.
+Suppose that C++ is popular at the 2000 years, but C++ doesn't have the best practice in anytime of history.
+
+Let me clarify a concept, although computer tech used to evolve very fast.
+But always having restrictions to bring in new tech.
+You may frequently listen a word "compatibility", in fact, it strongly influenced the electronic products to update.
+
+The reason why we take in "compatibility" is because the cost of the comprehensive updating is too high.
+
+Such as C++ or any popular language cannot avoid a truth is that it shouldn't destory the workflow of legacy code when it push a new standard.
+
+This means we can do addition on standard, rather than do substraction.
+
+
+
+    

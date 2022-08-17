@@ -1,0 +1,10 @@
+Function call is a very fundamental way to execute a collection of code.
+
+It is the easiest way to encapsulate a code collection.
+
+In C++, having such a rule, you cannot define function in a nested way.
+
+But you can use lambda in function, lambda also make the same effect.
+
+
+
